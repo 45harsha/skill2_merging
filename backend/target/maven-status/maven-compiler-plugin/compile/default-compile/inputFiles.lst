@@ -1,0 +1,11 @@
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\controller\AuthController.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\controller\ProductController.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\EcommerceApplication.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\entity\Product.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\entity\User.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\repository\ProductRepository.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\repository\UserRepository.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\security\JwtUtil.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\security\SecurityConfig.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\security\UserDetailsServiceImpl.java
+E:\subjects\CI-CD\skill\skill2\ecommerce\backend\src\main\java\com\klu\ecommerce\service\UserService.java
